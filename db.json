@@ -76,6 +76,21 @@
     }
   ],
   "education": [
-    {}
+    {
+      "Institution": "The University of Malawi, the Polytechnic",
+      "Qualifications": "BSc in Electronics and Computer Engineering",
+      "Program": "Honors Degree",
+      "Average": "Second Class",
+      "StartDate": "2016",
+      "EndDate": "2022"
+    },
+    {
+      "Institution": "Dowa Secondary School",
+      "Qualifications": "Malawi School Certificate of Education",
+      "Program": "",
+      "Average": "9 points",
+      "StartDate": "2011",
+      "EndDate": "2015"
+    }
   ]
 }
