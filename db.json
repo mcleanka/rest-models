@@ -1,6 +1,15 @@
 {
   "experiences": [
     {
+      "CompanyName": "Elizabeth Glaser Pediatric AIDS Foundation",
+      "JobTitle": "Software Developer",
+      "JobDescription": [
+        "Designed and developed at least 4 web apps using PHP and JavaScript (Laravel, and React).",
+      ],
+      "StartDate": "Jan 2023",
+      "EndDate": "Present"
+    },
+    {
       "CompanyName": "Malawi Liverpool Wellcome Trust",
       "JobTitle": "Part-Time Software Developer (Intern)",
       "JobDescription": [
