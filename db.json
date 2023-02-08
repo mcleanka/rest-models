@@ -104,5 +104,11 @@
     }
   ],
   "awards": [
+    {
+      "Title": "string",
+      "Institution": "string",
+      "Description": "string",
+      "Icon": "string"
+    }
   ]
 }
