@@ -1,6 +1,16 @@
 {
   "experiences": [
     {
+      "CompanyName": "Qube Analytica Limited",
+      "JobTitle": "Software Developer",
+      "JobDescription": [
+        "Designed and developed mobile application using Kotlin and React Native.",
+        "Training trainers on how to use different mobile applications developed in-house"
+      ],
+      "StartDate": "Aug 2023",
+      "EndDate": "Present"
+    },
+    {
       "CompanyName": "Elizabeth Glaser Pediatric AIDS Foundation",
       "JobTitle": "Software Developer",
       "JobDescription": [
